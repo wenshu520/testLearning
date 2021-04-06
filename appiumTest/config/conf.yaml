@@ -1,0 +1,11 @@
+desiredCap:
+  appActivity: ".launch.LaunchSplashActivity"
+  appPackage: "com.tencent.wework"
+  platform: "android"
+  deviceName: "127.0.0.1:7555"
+  noReset: "true"
+  skipServerInstallation: "true"
+
+appiumServer:
+  ip: "127.0.0.1"
+  port: 4723
